@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f06&icon_color=f06&text_color=fff&bg_color=0d0d0d&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f06&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29&bg_color=0d0d0d)](https://git.io/typing-svg)
+
 # 💫 About Me:
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=4976&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Ingrid+Vasconcelos)](https://git.io/typing-svg)
@@ -52,3 +56,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridvasc&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ingridvasc&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=ingridvasc&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f06&icon_color=f06&text_color=fff&bg_color=0d0d0d&height=120&section=footer"/>
