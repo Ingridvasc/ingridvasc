@@ -12,7 +12,6 @@
 
 *Bridging physical and digital worlds* with:  
 - **6+ years** solving complex problems at the engineering-software front  
-- **200+ projects** delivering **40% faster** solutions through tech innovation  
 - **Patent-pending** hybrid methodologies combining structural analysis with ML  
 
 *Where* **engineering precision** *meets* **digital craftsmanship** *to create*:  
