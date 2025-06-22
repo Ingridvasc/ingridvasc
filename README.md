@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/wordpress-%2302569B.svg?style=flat-square&logo=Wordpress&logoColor=white" alt="Wordpress">
+  
   
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js">
