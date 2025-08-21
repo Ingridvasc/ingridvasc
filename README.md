@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ingridvasc/ingridvasc/main/techstack.gif" width="360px" height="360px"/>
 
-**Civil Engineer | Full Stack Developer | Data Scientist | Digital Creator**
+**Civil Engineer | Full Stack Developer | Data Scientist**
 
 *Bridging physical and digital worlds* with:  
 - **6+ years** solving complex problems at the engineering-software front  
