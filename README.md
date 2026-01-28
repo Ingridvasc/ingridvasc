@@ -22,7 +22,7 @@
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-karoline-vasconcelos-da-silva-18635a230/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-vasconcelos-18635a230/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white)](https://ingridvasc.github.io/Portifolio/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ingridvasconcelos.dev@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/ingrid_75826)
